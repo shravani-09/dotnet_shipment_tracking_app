@@ -1,0 +1,6 @@
+@DhlShipment.Api_HostAddress = http://localhost:5108
+
+GET {{DhlShipment.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

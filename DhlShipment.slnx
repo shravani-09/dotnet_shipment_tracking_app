@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DhlShipment.Api.Tests/DhlShipment.Api.Tests.csproj" />
+  <Project Path="DhlShipment.Api/DhlShipment.Api.csproj" />
+</Solution>
